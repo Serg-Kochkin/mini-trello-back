@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######
+graphene
+
+###### Requirements with Version Specifiers ######
+Flask==2.3.3
+Flask-GraphQL==2.0.1
+boto3==1.28.57
+Flask-Cors==4.0.0
